@@ -48,9 +48,9 @@ To set up the project locally, follow these steps:
 ## 2. **Usage**
    Once installed, you can start using the app locally. Use the following login credentials:
 
-   Email: user1@gmail.com
-   Password: user
-For the live version, visit the Vercel deployment and log in with the same credentials.
+   -Email: user1@gmail.com
+   -Password: user
+-For the live version, visit the Vercel deployment and log in with the same credentials.
 
 ## 3. **Admin Dashboard**
    The admin dashboard allows administrators to:
